@@ -26,6 +26,8 @@ if($day == 1) {
     var_dump('Laupäev');
 } else if ($day == 7) {
     var_dump('Pühapäev');
+} else {
+    var_dump('Imelik päev');
 }
 
 switch($day) {
@@ -50,4 +52,6 @@ switch($day) {
     case 7:
         var_dump('Pühapäev');
         break;
+    default:
+        var_dump('Imelik päev');
 }
