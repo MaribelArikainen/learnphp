@@ -1,4 +1,4 @@
-   <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+ <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
         <symbol
             id="aperture"
             fill="none"
@@ -61,7 +61,7 @@
                 <a class="nav-item nav-link link-body-emphasis" href="/us">U.S.</a>
                 <a class="nav-item nav-link link-body-emphasis" href="#">Technology</a>
                 <a class="nav-item nav-link link-body-emphasis" href="/form">Form</a>
-                <a class="nav-item nav-link link-body-emphasis" href="#">Culture</a>
+                <a class="nav-item nav-link link-body-emphasis" href="/articles">Articles</a>
                 <a class="nav-item nav-link link-body-emphasis" href="#">Business</a>
                 <a class="nav-item nav-link link-body-emphasis" href="#">Politics</a>
                 <a class="nav-item nav-link link-body-emphasis" href="#">Opinion</a>
