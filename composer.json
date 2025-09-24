@@ -1,0 +1,19 @@
+{
+    "name": "60608115214/learnphp",
+    "description": "pepu",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maribel Arikainen",
+            "email": "maribel.arikainen@tptlive.ee"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^7.3"
+    }
+}
