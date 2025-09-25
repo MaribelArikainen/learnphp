@@ -13,6 +13,9 @@ require __DIR__ . '/../vendor/autoload.php';
 
 require __DIR__ . '/../routes.php';
 
+require __DIR__ . '/../vendor/autoload.php';
+
+
 
 $router = new App\Router($_SERVER['REQUEST_URI'], $_SERVER['REQUEST_METHOD']);
 $match = $router->match();

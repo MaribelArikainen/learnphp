@@ -10,7 +10,6 @@ class ArticleController
 {
     public function index()
     {
-        
         $articles = Article::all();
         view('articles/index', compact('articles'));
     }
